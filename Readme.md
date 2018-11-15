@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/AddColumnAtRunTime/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/AddColumnAtRunTime/Controllers/HomeController.vb))
+* [Data.cs](./CS/AddColumnAtRunTime/Models/Data.cs) (VB: [Data.vb](./VB/AddColumnAtRunTime/Models/Data.vb))
+* [Index.cshtml](./CS/AddColumnAtRunTime/Views/Home/Index.cshtml)
+* [GridPartial.cshtml](./CS/AddColumnAtRunTime/Views/Shared/GridPartial.cshtml)
+<!-- default file list end -->
 # GridView - How to add a column if the AutoGenerateColumns property is set to true
 
 
